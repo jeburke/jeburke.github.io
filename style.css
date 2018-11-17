@@ -52,7 +52,7 @@ header {
   background-size: cover;
   margin-bottom: 4em;
   text-align: center;
-  height: 250px;
+  height: 150px;
  
 }
 
@@ -75,7 +75,7 @@ header p {
   padding-top: .5em;
   opacity: .9;
   position: relative;
-  top: 360px;
+  top: 60px;
 }
 
 section h1 {
@@ -107,16 +107,16 @@ footer hr {
 
 @media screen and (min-width: 50em) {
   header {
-    height: 700px;
+    height: 200px;
   }
   
   header h1 {
     font-size: 3.2em;
-    top: 540px;
+    top: 140px;
   }
   
   header p {
-    top: 530px;
+    top: 130px;
     font-size: 1.5em;
   }
 }
