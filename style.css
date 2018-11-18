@@ -45,11 +45,11 @@ header {
   background-color: #999;
   background-image: url(img/ssRNA.png);
   background-repeat: repeat-x;
-  background-position: center center;
-  -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
+  background-position: 0 25%;
+  -webkit-background-size: 50%;
+  -moz-background-size: 50%;
+  -o-background-size: 50%;
+  background-size: 50%;
   margin-bottom: 4em;
   text-align: center;
   height: 150px;
