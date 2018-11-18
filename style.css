@@ -64,7 +64,7 @@ header h1 {
   opacity: 1;
   text-shadow: 0 3px 0 rgba(0,0,0, 0.5);
   position: relative;
-  top: 370px;
+  top: 70px;
   font-weight: 700;
 }
 
@@ -112,11 +112,11 @@ footer hr {
   
   header h1 {
     font-size: 3.2em;
-    top: 140px;
+    top: 80px;
   }
   
   header p {
-    top: 130px;
+    top: 70px;
     font-size: 1.5em;
   }
 }
